@@ -11,7 +11,7 @@ import android.graphics.Paint
 import android.util.AttributeSet
 import android.view.View
 import androidx.core.content.ContextCompat
-import com.macboard.keyboard.R
+import com.macboard.keyboard.latin.R
 
 /**
  * DragHandleView - A visual indicator for draggable panel expansion.
